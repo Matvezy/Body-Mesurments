@@ -1,3 +1,8 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>BODS Side Test Dataset</name>
+<images>
   <image file='AITrainingLib/1/Side.png'>
     <box top='134' left='435' width='135' height='732'>
       <part name='01' x='472' y='521'/>
