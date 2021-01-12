@@ -1,5 +1,647 @@
 <?xml version='1.0' encoding='ISO-8859-1'?>
 <?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
 <dataset>
-<name>BODS Front Test Val Dataset</name>
+<name>BODS Front Test Dataset</name>
 <images>
+  <image file='AITrainingLib/481/Front.png'>
+    <box top='157' left='282' width='472' height='767'>
+      <part name='01' x='991' y='289'/>
+      <part name='02' x='1000' y='301'/>
+      <part name='03' x='1020' y='304'/>
+      <part name='04' x='1039' y='308'/>
+      <part name='05' x='1035' y='340'/>
+      <part name='06' x='1037' y='354'/>
+      <part name='07' x='1033' y='388'/>
+      <part name='08' x='1034' y='418'/>
+      <part name='09' x='1051' y='460'/>
+      <part name='10' x='1058' y='501'/>
+      <part name='11' x='1073' y='548'/>
+      <part name='12' x='994' y='558'/>
+      <part name='13' x='982' y='530'/>
+      <part name='14' x='951' y='290'/>
+      <part name='15' x='940' y='302'/>
+      <part name='16' x='921' y='304'/>
+      <part name='17' x='901' y='309'/>
+      <part name='18' x='914' y='340'/>
+      <part name='19' x='928' y='356'/>
+      <part name='20' x='928' y='388'/>
+      <part name='21' x='928' y='415'/>
+      <part name='22' x='910' y='458'/>
+      <part name='23' x='901' y='499'/>
+      <part name='24' x='888' y='545'/>
+      <part name='25' x='967' y='558'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/482/Front.png'>
+    <box top='170' left='267' width='519' height='705'>
+      <part name='01' x='994' y='261'/>
+      <part name='02' x='1004' y='274'/>
+      <part name='03' x='1022' y='280'/>
+      <part name='04' x='1040' y='286'/>
+      <part name='05' x='1031' y='320'/>
+      <part name='06' x='1021' y='352'/>
+      <part name='07' x='1021' y='385'/>
+      <part name='08' x='1024' y='421'/>
+      <part name='09' x='1038' y='465'/>
+      <part name='10' x='1045' y='500'/>
+      <part name='11' x='1054' y='553'/>
+      <part name='12' x='973' y='555'/>
+      <part name='13' x='968' y='531'/>
+      <part name='14' x='957' y='260'/>
+      <part name='15' x='947' y='273'/>
+      <part name='16' x='929' y='278'/>
+      <part name='17' x='911' y='282'/>
+      <part name='18' x='913' y='316'/>
+      <part name='19' x='920' y='349'/>
+      <part name='20' x='920' y='381'/>
+      <part name='21' x='914' y='414'/>
+      <part name='22' x='895' y='464'/>
+      <part name='23' x='887' y='499'/>
+      <part name='24' x='875' y='549'/>
+      <part name='25' x='954' y='558'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/483/Front.png'>
+    <box top='163' left='268' width='503' height='800'>
+      <part name='01' x='1003' y='272'/>
+      <part name='02' x='1015' y='285'/>
+      <part name='03' x='1035' y='292'/>
+      <part name='04' x='1055' y='297'/>
+      <part name='05' x='1044' y='335'/>
+      <part name='06' x='1039' y='373'/>
+      <part name='07' x='1038' y='405'/>
+      <part name='08' x='1044' y='442'/>
+      <part name='09' x='1051' y='491'/>
+      <part name='10' x='1055' y='530'/>
+      <part name='11' x='1063' y='586'/>
+      <part name='12' x='984' y='587'/>
+      <part name='13' x='974' y='563'/>
+      <part name='14' x='959' y='271'/>
+      <part name='15' x='949' y='284'/>
+      <part name='16' x='928' y='289'/>
+      <part name='17' x='908' y='294'/>
+      <part name='18' x='915' y='332'/>
+      <part name='19' x='913' y='370'/>
+      <part name='20' x='916' y='403'/>
+      <part name='21' x='909' y='440'/>
+      <part name='22' x='901' y='489'/>
+      <part name='23' x='897' y='528'/>
+      <part name='24' x='890' y='584'/>
+      <part name='25' x='969' y='585'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/484/Front.png'>
+    <box top='152' left='302' width='571' height='742'>
+      <part name='01' x='1006' y='249'/>
+      <part name='02' x='1016' y='261'/>
+      <part name='03' x='1036' y='265'/>
+      <part name='04' x='1054' y='267'/>
+      <part name='05' x='1054' y='304'/>
+      <part name='06' x='1063' y='330'/>
+      <part name='07' x='1056' y='368'/>
+      <part name='08' x='1061' y='406'/>
+      <part name='09' x='1065' y='454'/>
+      <part name='10' x='1068' y='493'/>
+      <part name='11' x='1080' y='544'/>
+      <part name='12' x='1007' y='551'/>
+      <part name='13' x='997' y='528'/>
+      <part name='14' x='962' y='250'/>
+      <part name='15' x='950' y='265'/>
+      <part name='16' x='932' y='270'/>
+      <part name='17' x='912' y='276'/>
+      <part name='18' x='924' y='311'/>
+      <part name='19' x='930' y='338'/>
+      <part name='20' x='934' y='373'/>
+      <part name='21' x='931' y='407'/>
+      <part name='22' x='926' y='455'/>
+      <part name='23' x='922' y='495'/>
+      <part name='24' x='913' y='547'/>
+      <part name='25' x='984' y='550'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/485/Front.png'>
+    <box top='150' left='262' width='479' height='738'>
+      <part name='01' x='992' y='257'/>
+      <part name='02' x='1002' y='269'/>
+      <part name='03' x='1020' y='274'/>
+      <part name='04' x='1040' y='279'/>
+      <part name='05' x='1031' y='315'/>
+      <part name='06' x='1034' y='345'/>
+      <part name='07' x='1027' y='377'/>
+      <part name='08' x='1024' y='412'/>
+      <part name='09' x='1030' y='455'/>
+      <part name='10' x='1034' y='493'/>
+      <part name='11' x='1046' y='539'/>
+      <part name='12' x='981' y='546'/>
+      <part name='13' x='969' y='527'/>
+      <part name='14' x='949' y='257'/>
+      <part name='15' x='938' y='268'/>
+      <part name='16' x='919' y='272'/>
+      <part name='17' x='900' y='276'/>
+      <part name='18' x='908' y='314'/>
+      <part name='19' x='910' y='343'/>
+      <part name='20' x='913' y='375'/>
+      <part name='21' x='915' y='410'/>
+      <part name='22' x='907' y='455'/>
+      <part name='23' x='903' y='496'/>
+      <part name='24' x='896' y='544'/>
+      <part name='25' x='960' y='545'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/486/Front.png'>
+    <box top='221' left='229' width='592' height='747'>
+      <part name='01' x='979' y='313'/>
+      <part name='02' x='990' y='329'/>
+      <part name='03' x='1011' y='333'/>
+      <part name='04' x='1030' y='337'/>
+      <part name='05' x='1026' y='371'/>
+      <part name='06' x='1015' y='400'/>
+      <part name='07' x='1024' y='437'/>
+      <part name='08' x='1038' y='472'/>
+      <part name='09' x='1053' y='532'/>
+      <part name='10' x='1058' y='575'/>
+      <part name='11' x='1066' y='629'/>
+      <part name='12' x='981' y='631'/>
+      <part name='13' x='974' y='605'/>
+      <part name='14' x='942' y='316'/>
+      <part name='15' x='932' y='332'/>
+      <part name='16' x='912' y='339'/>
+      <part name='17' x='894' y='345'/>
+      <part name='18' x='901' y='378'/>
+      <part name='19' x='918' y='406'/>
+      <part name='20' x='913' y='444'/>
+      <part name='21' x='903' y='480'/>
+      <part name='22' x='896' y='533'/>
+      <part name='23' x='889' y='573'/>
+      <part name='24' x='881' y='626'/>
+      <part name='25' x='965' y='631'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/487/Front.png'>
+    <box top='226' left='285' width='481' height='715'>
+      <part name='01' x='991' y='337'/>
+      <part name='02' x='1002' y='347'/>
+      <part name='03' x='1020' y='352'/>
+      <part name='04' x='1038' y='356'/>
+      <part name='05' x='1030' y='390'/>
+      <part name='06' x='1018' y='418'/>
+      <part name='07' x='1023' y='445'/>
+      <part name='08' x='1030' y='474'/>
+      <part name='09' x='1034' y='517'/>
+      <part name='10' x='1036' y='555'/>
+      <part name='11' x='1043' y='602'/>
+      <part name='12' x='980' y='604'/>
+      <part name='13' x='970' y='585'/>
+      <part name='14' x='954' y='337'/>
+      <part name='15' x='945' y='347'/>
+      <part name='16' x='926' y='351'/>
+      <part name='17' x='908' y='356'/>
+      <part name='18' x='913' y='389'/>
+      <part name='19' x='916' y='417'/>
+      <part name='20' x='915' y='445'/>
+      <part name='21' x='908' y='477'/>
+      <part name='22' x='908' y='518'/>
+      <part name='23' x='906' y='555'/>
+      <part name='24' x='898' y='600'/>
+      <part name='25' x='961' y='605'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/488/Front.png'>
+    <box top='227' left='184' width='580' height='764'>
+      <part name='01' x='937' y='344'/>
+      <part name='02' x='951' y='353'/>
+      <part name='03' x='969' y='356'/>
+      <part name='04' x='989' y='359'/>
+      <part name='05' x='986' y='396'/>
+      <part name='06' x='982' y='416'/>
+      <part name='07' x='978' y='455'/>
+      <part name='08' x='970' y='492'/>
+      <part name='09' x='987' y='539'/>
+      <part name='10' x='995' y='583'/>
+      <part name='11' x='1007' y='631'/>
+      <part name='12' x='935' y='638'/>
+      <part name='13' x='921' y='618'/>
+      <part name='14' x='890' y='346'/>
+      <part name='15' x='881' y='359'/>
+      <part name='16' x='862' y='365'/>
+      <part name='17' x='842' y='372'/>
+      <part name='18' x='850' y='406'/>
+      <part name='19' x='845' y='427'/>
+      <part name='20' x='860' y='463'/>
+      <part name='21' x='871' y='495'/>
+      <part name='22' x='857' y='540'/>
+      <part name='23' x='850' y='583'/>
+      <part name='24' x='838' y='631'/>
+      <part name='25' x='911' y='638'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/489/Front.png'>
+    <box top='187' left='272' width='524' height='735'>
+      <part name='01' x='1001' y='307'/>
+      <part name='02' x='1011' y='319'/>
+      <part name='03' x='1029' y='323'/>
+      <part name='04' x='1047' y='328'/>
+      <part name='05' x='1041' y='360'/>
+      <part name='06' x='1034' y='380'/>
+      <part name='07' x='1030' y='414'/>
+      <part name='08' x='1023' y='447'/>
+      <part name='09' x='1037' y='489'/>
+      <part name='10' x='1045' y='528'/>
+      <part name='11' x='1060' y='571'/>
+      <part name='12' x='989' y='583'/>
+      <part name='13' x='975' y='558'/>
+      <part name='14' x='960' y='307'/>
+      <part name='15' x='949' y='318'/>
+      <part name='16' x='931' y='322'/>
+      <part name='17' x='913' y='327'/>
+      <part name='18' x='917' y='358'/>
+      <part name='19' x='921' y='378'/>
+      <part name='20' x='926' y='412'/>
+      <part name='21' x='929' y='442'/>
+      <part name='22' x='911' y='488'/>
+      <part name='23' x='903' y='531'/>
+      <part name='24' x='895' y='577'/>
+      <part name='25' x='966' y='581'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/490/Front.png'>
+    <box top='127' left='272' width='492' height='823'>
+      <part name='01' x='1015' y='256'/>
+      <part name='02' x='1024' y='267'/>
+      <part name='03' x='1043' y='276'/>
+      <part name='04' x='1062' y='283'/>
+      <part name='05' x='1051' y='321'/>
+      <part name='06' x='1047' y='362'/>
+      <part name='07' x='1035' y='390'/>
+      <part name='08' x='1028' y='426'/>
+      <part name='09' x='1042' y='471'/>
+      <part name='10' x='1049' y='510'/>
+      <part name='11' x='1058' y='562'/>
+      <part name='12' x='983' y='563'/>
+      <part name='13' x='977' y='546'/>
+      <part name='14' x='971' y='251'/>
+      <part name='15' x='958' y='261'/>
+      <part name='16' x='938' y='266'/>
+      <part name='17' x='917' y='270'/>
+      <part name='18' x='924' y='311'/>
+      <part name='19' x='929' y='352'/>
+      <part name='20' x='928' y='383'/>
+      <part name='21' x='932' y='423'/>
+      <part name='22' x='910' y='471'/>
+      <part name='23' x='901' y='512'/>
+      <part name='24' x='893' y='564'/>
+      <part name='25' x='967' y='565'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/491/Front.png'>
+    <box top='204' left='207' width='526' height='718'>
+      <part name='01' x='942' y='320'/>
+      <part name='02' x='952' y='331'/>
+      <part name='03' x='973' y='336'/>
+      <part name='04' x='991' y='340'/>
+      <part name='05' x='987' y='377'/>
+      <part name='06' x='984' y='406'/>
+      <part name='07' x='983' y='436'/>
+      <part name='08' x='994' y='466'/>
+      <part name='09' x='1006' y='512'/>
+      <part name='10' x='1010' y='547'/>
+      <part name='11' x='1017' y='599'/>
+      <part name='12' x='931' y='601'/>
+      <part name='13' x='925' y='582'/>
+      <part name='14' x='899' y='321'/>
+      <part name='15' x='889' y='332'/>
+      <part name='16' x='869' y='337'/>
+      <part name='17' x='850' y='342'/>
+      <part name='18' x='854' y='379'/>
+      <part name='19' x='860' y='408'/>
+      <part name='20' x='862' y='439'/>
+      <part name='21' x='852' y='470'/>
+      <part name='22' x='844' y='514'/>
+      <part name='23' x='838' y='547'/>
+      <part name='24' x='829' y='598'/>
+      <part name='25' x='915' y='602'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/492/Front.png'>
+    <box top='179' left='303' width='462' height='830'>
+      <part name='01' x='1002' y='310'/>
+      <part name='02' x='1013' y='324'/>
+      <part name='03' x='1033' y='328'/>
+      <part name='04' x='1052' y='334'/>
+      <part name='05' x='1045' y='367'/>
+      <part name='06' x='1033' y='387'/>
+      <part name='07' x='1035' y='419'/>
+      <part name='08' x='1044' y='447'/>
+      <part name='09' x='1053' y='497'/>
+      <part name='10' x='1056' y='539'/>
+      <part name='11' x='1064' y='594'/>
+      <part name='12' x='984' y='596'/>
+      <part name='13' x='976' y='570'/>
+      <part name='14' x='962' y='309'/>
+      <part name='15' x='951' y='321'/>
+      <part name='16' x='930' y='324'/>
+      <part name='17' x='910' y='328'/>
+      <part name='18' x='915' y='362'/>
+      <part name='19' x='921' y='382'/>
+      <part name='20' x='917' y='418'/>
+      <part name='21' x='905' y='451'/>
+      <part name='22' x='900' y='497'/>
+      <part name='23' x='896' y='538'/>
+      <part name='24' x='887' y='592'/>
+      <part name='25' x='967' y='596'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/493/Front.png'>
+    <box top='147' left='259' width='482' height='833'>
+      <part name='01' x='956' y='257'/>
+      <part name='02' x='968' y='272'/>
+      <part name='03' x='988' y='276'/>
+      <part name='04' x='1010' y='281'/>
+      <part name='05' x='1004' y='317'/>
+      <part name='06' x='1002' y='351'/>
+      <part name='07' x='1001' y='391'/>
+      <part name='08' x='1001' y='434'/>
+      <part name='09' x='1022' y='489'/>
+      <part name='10' x='1031' y='533'/>
+      <part name='11' x='1045' y='585'/>
+      <part name='12' x='959' y='594'/>
+      <part name='13' x='947' y='563'/>
+      <part name='14' x='914' y='259'/>
+      <part name='15' x='904' y='275'/>
+      <part name='16' x='884' y='282'/>
+      <part name='17' x='863' y='289'/>
+      <part name='18' x='876' y='324'/>
+      <part name='19' x='887' y='358'/>
+      <part name='20' x='890' y='396'/>
+      <part name='21' x='892' y='435'/>
+      <part name='22' x='872' y='488'/>
+      <part name='23' x='862' y='532'/>
+      <part name='24' x='851' y='585'/>
+      <part name='25' x='937' y='591'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/494/Front.png'>
+    <box top='186' left='308' width='433' height='781'>
+      <part name='01' x='1014' y='314'/>
+      <part name='02' x='1023' y='327'/>
+      <part name='03' x='1040' y='333'/>
+      <part name='04' x='1058' y='340'/>
+      <part name='05' x='1046' y='370'/>
+      <part name='06' x='1047' y='394'/>
+      <part name='07' x='1035' y='426'/>
+      <part name='08' x='1030' y='457'/>
+      <part name='09' x='1046' y='500'/>
+      <part name='10' x='1054' y='534'/>
+      <part name='11' x='1067' y='579'/>
+      <part name='12' x='989' y='589'/>
+      <part name='13' x='976' y='566'/>
+      <part name='14' x='974' y='310'/>
+      <part name='15' x='962' y='321'/>
+      <part name='16' x='944' y='323'/>
+      <part name='17' x='925' y='326'/>
+      <part name='18' x='930' y='357'/>
+      <part name='19' x='926' y='381'/>
+      <part name='20' x='930' y='417'/>
+      <part name='21' x='930' y='451'/>
+      <part name='22' x='909' y='497'/>
+      <part name='23' x='900' y='533'/>
+      <part name='24' x='887' y='578'/>
+      <part name='25' x='965' y='589'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/495/Front.png'>
+    <box top='140' left='193' width='575' height='750'>
+      <part name='01' x='960' y='241'/>
+      <part name='02' x='973' y='251'/>
+      <part name='03' x='993' y='257'/>
+      <part name='04' x='1014' y='261'/>
+      <part name='05' x='1008' y='303'/>
+      <part name='06' x='1004' y='348'/>
+      <part name='07' x='1004' y='378'/>
+      <part name='08' x='1006' y='418'/>
+      <part name='09' x='1015' y='469'/>
+      <part name='10' x='1018' y='510'/>
+      <part name='11' x='1028' y='564'/>
+      <part name='12' x='960' y='565'/>
+      <part name='13' x='947' y='544'/>
+      <part name='14' x='913' y='243'/>
+      <part name='15' x='904' y='255'/>
+      <part name='16' x='885' y='263'/>
+      <part name='17' x='865' y='269'/>
+      <part name='18' x='872' y='310'/>
+      <part name='19' x='875' y='354'/>
+      <part name='20' x='883' y='384'/>
+      <part name='21' x='885' y='423'/>
+      <part name='22' x='884' y='467'/>
+      <part name='23' x='880' y='506'/>
+      <part name='24' x='865' y='557'/>
+      <part name='25' x='933' y='566'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/496/Front.png'>
+    <box top='207' left='254' width='487' height='777'>
+      <part name='01' x='992' y='339'/>
+      <part name='02' x='1002' y='350'/>
+      <part name='03' x='1022' y='356'/>
+      <part name='04' x='1042' y='361'/>
+      <part name='05' x='1034' y='398'/>
+      <part name='06' x='1035' y='429'/>
+      <part name='07' x='1032' y='460'/>
+      <part name='08' x='1039' y='494'/>
+      <part name='09' x='1051' y='539'/>
+      <part name='10' x='1057' y='572'/>
+      <part name='11' x='1071' y='621'/>
+      <part name='12' x='980' y='634'/>
+      <part name='13' x='966' y='609'/>
+      <part name='14' x='950' y='338'/>
+      <part name='15' x='939' y='350'/>
+      <part name='16' x='918' y='355'/>
+      <part name='17' x='899' y='359'/>
+      <part name='18' x='906' y='397'/>
+      <part name='19' x='915' y='428'/>
+      <part name='20' x='913' y='457'/>
+      <part name='21' x='903' y='486'/>
+      <part name='22' x='884' y='535'/>
+      <part name='23' x='876' y='572'/>
+      <part name='24' x='867' y='625'/>
+      <part name='25' x='957' y='630'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/497/Front.png'>
+    <box top='148' left='262' width='460' height='775'>
+      <part name='01' x='986' y='254'/>
+      <part name='02' x='997' y='266'/>
+      <part name='03' x='1014' y='271'/>
+      <part name='04' x='1034' y='278'/>
+      <part name='05' x='1023' y='309'/>
+      <part name='06' x='1030' y='332'/>
+      <part name='07' x='1018' y='371'/>
+      <part name='08' x='1008' y='405'/>
+      <part name='09' x='1017' y='451'/>
+      <part name='10' x='1023' y='491'/>
+      <part name='11' x='1035' y='540'/>
+      <part name='12' x='969' y='547'/>
+      <part name='13' x='957' y='523'/>
+      <part name='14' x='937' y='253'/>
+      <part name='15' x='927' y='264'/>
+      <part name='16' x='909' y='269'/>
+      <part name='17' x='890' y='274'/>
+      <part name='18' x='895' y='308'/>
+      <part name='19' x='884' y='329'/>
+      <part name='20' x='898' y='368'/>
+      <part name='21' x='906' y='403'/>
+      <part name='22' x='895' y='451'/>
+      <part name='23' x='890' y='493'/>
+      <part name='24' x='880' y='543'/>
+      <part name='25' x='946' y='546'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/498/Front.png'>
+    <box top='172' left='251' width='486' height='767'>
+      <part name='01' x='972' y='291'/>
+      <part name='02' x='984' y='303'/>
+      <part name='03' x='1002' y='308'/>
+      <part name='04' x='1022' y='311'/>
+      <part name='05' x='1013' y='348'/>
+      <part name='06' x='1014' y='381'/>
+      <part name='07' x='1012' y='413'/>
+      <part name='08' x='1017' y='450'/>
+      <part name='09' x='1017' y='497'/>
+      <part name='10' x='1018' y='534'/>
+      <part name='11' x='1030' y='583'/>
+      <part name='12' x='968' y='588'/>
+      <part name='13' x='953' y='566'/>
+      <part name='14' x='928' y='292'/>
+      <part name='15' x='919' y='305'/>
+      <part name='16' x='901' y='311'/>
+      <part name='17' x='882' y='316'/>
+      <part name='18' x='891' y='351'/>
+      <part name='19' x='879' y='384'/>
+      <part name='20' x='890' y='417'/>
+      <part name='21' x='888' y='453'/>
+      <part name='22' x='891' y='496'/>
+      <part name='23' x='891' y='532'/>
+      <part name='24' x='879' y='581'/>
+      <part name='25' x='942' y='587'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/499/Front.png'>
+    <box top='201' left='234' width='531' height='790'>
+      <part name='01' x='958' y='310'/>
+      <part name='02' x='972' y='324'/>
+      <part name='03' x='992' y='326'/>
+      <part name='04' x='1013' y='327'/>
+      <part name='05' x='1007' y='364'/>
+      <part name='06' x='1018' y='381'/>
+      <part name='07' x='1013' y='428'/>
+      <part name='08' x='1014' y='467'/>
+      <part name='09' x='1026' y='523'/>
+      <part name='10' x='1030' y='568'/>
+      <part name='11' x='1040' y='620'/>
+      <part name='12' x='961' y='625'/>
+      <part name='13' x='952' y='599'/>
+      <part name='14' x='910' y='315'/>
+      <part name='15' x='900' y='332'/>
+      <part name='16' x='881' y='338'/>
+      <part name='17' x='862' y='345'/>
+      <part name='18' x='871' y='377'/>
+      <part name='19' x='862' y='399'/>
+      <part name='20' x='880' y='440'/>
+      <part name='21' x='883' y='474'/>
+      <part name='22' x='878' y='524'/>
+      <part name='23' x='872' y='567'/>
+      <part name='24' x='863' y='621'/>
+      <part name='25' x='942' y='624'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/500/Front.png'>
+    <box top='186' left='272' width='566' height='757'>
+      <part name='01' x='1020' y='310'/>
+      <part name='02' x='1031' y='322'/>
+      <part name='03' x='1050' y='326'/>
+      <part name='04' x='1070' y='331'/>
+      <part name='05' x='1062' y='366'/>
+      <part name='06' x='1055' y='390'/>
+      <part name='07' x='1048' y='421'/>
+      <part name='08' x='1043' y='451'/>
+      <part name='09' x='1064' y='496'/>
+      <part name='10' x='1072' y='537'/>
+      <part name='11' x='1083' y='582'/>
+      <part name='12' x='1006' y='590'/>
+      <part name='13' x='993' y='573'/>
+      <part name='14' x='976' y='310'/>
+      <part name='15' x='965' y='320'/>
+      <part name='16' x='946' y='323'/>
+      <part name='17' x='926' y='327'/>
+      <part name='18' x='930' y='362'/>
+      <part name='19' x='929' y='386'/>
+      <part name='20' x='936' y='419'/>
+      <part name='21' x='942' y='455'/>
+      <part name='22' x='924' y='497'/>
+      <part name='23' x='916' y='537'/>
+      <part name='24' x='907' y='584'/>
+      <part name='25' x='984' y='588'/>
+    </box>
+  </image>
+</images>
+</dataset>
+  <image file='AITrainingLib/1/mask.pt'>
+    <box top='246' left='236' width='461' height='636'>
+      <part name='01' x='948' y='362'/>
+      <part name='02' x='958' y='371'/>
+      <part name='03' x='977' y='375'/>
+      <part name='04' x='995' y='380'/>
+      <part name='05' x='988' y='414'/>
+      <part name='06' x='987' y='437'/>
+      <part name='07' x='985' y='465'/>
+      <part name='08' x='989' y='495'/>
+      <part name='09' x='993' y='531'/>
+      <part name='10' x='997' y='566'/>
+      <part name='11' x='1004' y='610'/>
+      <part name='12' x='932' y='611'/>
+      <part name='13' x='925' y='598'/>
+      <part name='14' x='909' y='360'/>
+      <part name='15' x='899' y='370'/>
+      <part name='16' x='880' y='373'/>
+      <part name='17' x='862' y='377'/>
+      <part name='18' x='868' y='411'/>
+      <part name='19' x='874' y='435'/>
+      <part name='20' x='872' y='461'/>
+      <part name='21' x='865' y='488'/>
+      <part name='22' x='857' y='530'/>
+      <part name='23' x='853' y='565'/>
+      <part name='24' x='845' y='609'/>
+      <part name='25' x='917' y='613'/>
+    </box>
+  </image>
+  <image file='AITrainingLib/2/mask.pt'>
+    <box top='166' left='264' width='456' height='752'>
+      <part name='01' x='989' y='276'/>
+      <part name='02' x='998' y='289'/>
+      <part name='03' x='1016' y='294'/>
+      <part name='04' x='1034' y='300'/>
+      <part name='05' x='1026' y='333'/>
+      <part name='06' x='1022' y='366'/>
+      <part name='07' x='1018' y='397'/>
+      <part name='08' x='1017' y='431'/>
+      <part name='09' x='1031' y='477'/>
+      <part name='10' x='1038' y='514'/>
+      <part name='11' x='1049' y='560'/>
+      <part name='12' x='979' y='565'/>
+      <part name='13' x='968' y='546'/>
+      <part name='14' x='950' y='275'/>
+      <part name='15' x='939' y='287'/>
+      <part name='16' x='921' y='292'/>
+      <part name='17' x='903' y='296'/>
+      <part name='18' x='909' y='331'/>
+      <part name='19' x='915' y='363'/>
+      <part name='20' x='916' y='396'/>
+      <part name='21' x='918' y='435'/>
+      <part name='22' x='907' y='477'/>
+      <part name='23' x='900' y='512'/>
+      <part name='24' x='887' y='557'/>
+      <part name='25' x='957' y='565'/>
+    </box>
+  </image>
+</images>
+</dataset>
